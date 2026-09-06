@@ -30,7 +30,6 @@ Outside of that, I do gameplay programming in Unity on personal projects.
 
 **Desktop & Games**
 
-![Avalonia](https://img.shields.io/badge/Avalonia-8B44AC?style=for-the-badge&logo=avaloniaui&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## What I'm building
