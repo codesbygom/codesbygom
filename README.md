@@ -28,8 +28,9 @@ Outside of that, I do gameplay programming in Unity on personal projects.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**Games**
+**Desktop & Games**
 
+![Avalonia](https://img.shields.io/badge/Avalonia-8B44AC?style=for-the-badge&logo=avaloniaui&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## What I'm building
@@ -38,15 +39,15 @@ Outside of that, I do gameplay programming in Unity on personal projects.
 where most of my time goes.
 
 **[Rewind](https://github.com/codesbygom/rewind)** — an all-in-one retro game emulator,
-open source and cross-platform. Written in C++ on top of the
-[libretro](https://www.libretro.com/) API via
-[lrcpp](https://github.com/leiradel/lrcpp), so a single frontend can drive cores for a
-wide range of systems. Most of my work goes into the frontend layer: rendering, input
-handling, and the interface around it.
+open source and cross-platform. The core side runs on the
+[libretro](https://www.libretro.com/) API through
+[lrcpp](https://github.com/leiradel/lrcpp), a C++ wrapper that handles core lifecycle and
+environment calls — my job is implementing the frontend components it delegates to
+(video, audio, input, config) and wrapping the whole thing in a cross-platform Avalonia UI.
 
 **[Krypton](https://github.com/codesbygom/krypton)** — an open-source, cross-platform
-client-side encryption tool written in C#, inspired by Cryptomator. Files are encrypted
-locally before they touch disk or a sync folder.
+client-side encryption tool written in C# with Avalonia, inspired by Cryptomator. Files
+are encrypted locally before they touch disk or a sync folder.
 
 **Gameplay mechanics in Unity** — personal projects where I build and iterate on
 individual gameplay systems. It's the part I do for its own sake, and it's taught me a
