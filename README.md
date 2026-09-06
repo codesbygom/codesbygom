@@ -7,12 +7,12 @@ reusable component work.
 
 Outside of that, I do gameplay programming in Unity on personal projects.
 
-
 ## Tech
 
 **Languages**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,9 +38,10 @@ Outside of that, I do gameplay programming in Unity on personal projects.
 where most of my time goes.
 
 **[Rewind](https://github.com/codesbygom/rewind)** — an all-in-one retro game emulator,
-open source and cross-platform. Built on top of the
-[libretro](https://www.libretro.com/) API, so a single frontend can run cores for a wide
-range of systems. Most of my work goes into the frontend layer: rendering, input
+open source and cross-platform. Written in C++ on top of the
+[libretro](https://www.libretro.com/) API via
+[lrcpp](https://github.com/leiradel/lrcpp), so a single frontend can drive cores for a
+wide range of systems. Most of my work goes into the frontend layer: rendering, input
 handling, and the interface around it.
 
 **[Krypton](https://github.com/codesbygom/krypton)** — an open-source, cross-platform
@@ -55,5 +56,3 @@ lot about state management and performance that carries back into my other work.
 
 - **Email** · arash.m.gholinejad@gmail.com
 - **LinkedIn** · [arash1997](https://www.linkedin.com/in/arash1997/)
-
-
