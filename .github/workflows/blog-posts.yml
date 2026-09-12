@@ -1,0 +1,22 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Change this if the feed lives somewhere else
+          feed_list: "https://codesbygom.github.io/feed.xml"
+          max_post_count: 5
+          template: "- [$title]($url) &nbsp;·&nbsp; <sub>$date</sub><br/>"
+          date_format: "mmm d, yyyy"
+          commit_message: "chore: update blog posts in README"
