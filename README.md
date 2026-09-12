@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/codesbygom">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Arash+%F0%9F%91%8B;Full-stack+developer;C%23+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+C%2B%2B;Building+Rewind+and+Adamantium" alt="Full-stack developer"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Arash+%F0%9F%91%8B;Backend+%C2%B7+Game+Developer;C%23+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+C%2B%2B;Building+Rewind+and+Adamantium" alt="Backend · Game Developer"/>
   </a>
 </p>
 
 <p align="center">
-  I work across the stack — from API design and data modelling to the interface people actually use.<br/>
-  Off the clock: gameplay mechanics in Unity and open-source desktop apps in C# and C++.
+  Backend developer — APIs, data modelling, and the systems behind them.<br/>
+  Also a game developer: gameplay mechanics in Unity, plus open-source desktop apps in C# and C++.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 <!-- Keep this to three lines. Update it when it stops being true. -->
 
-- Rewriting **NeoDS4**'s WPF interface in Avalonia
+- Rewriting **DS4Windows**'s WPF interface in Avalonia, shipping it as **NeoDS4**
 - Shipping the first tagged release of **Adamantium**
 - Learning design systems, and applying them to both desktop apps
 
@@ -77,8 +77,7 @@
       </p>
       <p align="center">
         Modern gamepad input mapper &amp; virtual controller emulator for Windows — DualShock, DualSense, Switch Pro &amp; more.<br/>
-        <sub><b>C# · Avalonia</b></sub><br/>
-        <img src="https://img.shields.io/badge/repo-private-8b949e?style=flat&labelColor=0d1117" alt="private repo"/>
+        <sub><b>C# · Avalonia</b></sub>
       </p>
     </td>
   </tr>
@@ -125,17 +124,13 @@
 </p>
 -->
 
+<!-- github-readme-stats (stats card), github-readme-activity-graph, and github-profile-trophy
+     are pulled temporarily: their free hosted instances are returning 503/402 (rate limit /
+     quota, not something wrong here). Re-add them once those services recover, or self-host:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codesbygom&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="GitHub stats" height="170"/>
   <img src="https://streak-stats.demolab.com?user=codesbygom&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Commit streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codesbygom&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f78166&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codesbygom&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
 </p>
 
 <picture>
