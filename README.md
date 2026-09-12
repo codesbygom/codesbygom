@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/codesbygom">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Arash+%F0%9F%91%8B;Full-stack+developer+%E2%80%A2+Los+Angeles;C%23+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+C%2B%2B;Building+Rewind+and+Krypton" alt="Full-stack developer"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Arash+%F0%9F%91%8B;Full-stack+developer;C%23+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+C%2B%2B;Building+Rewind+and+Adamantium" alt="Full-stack developer"/>
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 <!-- Keep this to three lines. Update it when it stops being true. -->
 
 - Rewriting **NeoDS4**'s WPF interface in Avalonia
-- Shipping the first tagged release of **Krypton**
+- Shipping the first tagged release of **Adamantium**
 - Learning design systems, and applying them to both desktop apps
 
 ---
@@ -51,19 +51,19 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center"><a href="https://github.com/codesbygom/krypton">Krypton</a></h4>
+      <h4 align="center"><a href="https://github.com/codesbygom/adamantium">Adamantium</a></h4>
       <p align="center">
-        <!-- Record a ~5s clip, save it as assets/krypton.gif, then uncomment:
-        <a href="https://github.com/codesbygom/krypton">
-          <img src="assets/krypton.gif" alt="Krypton encrypting a folder" width="100%"/>
+        <!-- Record a ~5s clip, save it as assets/adamantium.gif, then uncomment:
+        <a href="https://github.com/codesbygom/adamantium">
+          <img src="assets/adamantium.gif" alt="Adamantium encrypting a folder" width="100%"/>
         </a>
         -->
       </p>
       <p align="center">
         Client-side encryption tool — your keys never leave the machine.<br/>
         <sub><b>C# · Avalonia</b></sub><br/>
-        <img src="https://img.shields.io/github/stars/codesbygom/krypton?style=flat&color=58a6ff&labelColor=0d1117" alt="stars"/>
-        <img src="https://img.shields.io/github/last-commit/codesbygom/krypton?style=flat&color=238636&labelColor=0d1117" alt="last commit"/>
+        <img src="https://img.shields.io/github/stars/codesbygom/adamantium?style=flat&color=58a6ff&labelColor=0d1117" alt="stars"/>
+        <img src="https://img.shields.io/github/last-commit/codesbygom/adamantium?style=flat&color=238636&labelColor=0d1117" alt="last commit"/>
       </p>
     </td>
   </tr>
@@ -163,8 +163,4 @@
 
 <p align="right"><a href="https://codesbygom.github.io">→ more posts</a></p>
 
----
 
-<p align="center">
-  <i>Open to collaborating on open-source C#/C++ desktop tooling and game-adjacent projects.</i>
-</p>
