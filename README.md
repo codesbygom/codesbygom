@@ -30,15 +30,17 @@
 
 ### 🚧 What I'm building
 
-<!-- When the org exists, swap the owner in every link/badge below: codesbygom/rewind -> YOUR-ORG/rewind -->
+<!-- Org migration done: all three now live under GOMWorks, currently private.
+     Star/last-commit badges are omitted because shields.io can't read private repos.
+     Once a repo goes public, add its badges back and drop the "Private" label. -->
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4 align="center"><a href="https://github.com/codesbygom/rewind">Rewind</a></h4>
+    <td width="33%" valign="top">
+      <h4 align="center"><a href="https://github.com/GOMWorks/Rewind">Rewind</a></h4>
       <p align="center">
         <!-- Record a ~5s clip, save it as assets/rewind.gif, then uncomment:
-        <a href="https://github.com/codesbygom/rewind">
+        <a href="https://github.com/GOMWorks/Rewind">
           <img src="assets/rewind.gif" alt="Rewind running a game" width="100%"/>
         </a>
         -->
@@ -46,34 +48,41 @@
       <p align="center">
         All-in-one cross-platform retro game emulator, built on the libretro API.<br/>
         <sub><b>C++ · lrcpp · Avalonia</b></sub><br/>
-        <img src="https://img.shields.io/github/stars/codesbygom/rewind?style=flat&color=58a6ff&labelColor=0d1117" alt="stars"/>
-        <img src="https://img.shields.io/github/last-commit/codesbygom/rewind?style=flat&color=238636&labelColor=0d1117" alt="last commit"/>
+        <img src="https://img.shields.io/badge/repo-private-8b949e?style=flat&labelColor=0d1117" alt="private repo"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h4 align="center"><a href="https://github.com/codesbygom/adamantium">Adamantium</a></h4>
+    <td width="33%" valign="top">
+      <h4 align="center"><a href="https://github.com/GOMWorks/Adamantium">Adamantium</a></h4>
       <p align="center">
         <!-- Record a ~5s clip, save it as assets/adamantium.gif, then uncomment:
-        <a href="https://github.com/codesbygom/adamantium">
+        <a href="https://github.com/GOMWorks/Adamantium">
           <img src="assets/adamantium.gif" alt="Adamantium encrypting a folder" width="100%"/>
         </a>
         -->
       </p>
       <p align="center">
-        Client-side encryption tool — your keys never leave the machine.<br/>
+        Local-first, end-to-end encrypted vault — synced through your own cloud storage, no servers of its own.<br/>
         <sub><b>C# · Avalonia</b></sub><br/>
-        <img src="https://img.shields.io/github/stars/codesbygom/adamantium?style=flat&color=58a6ff&labelColor=0d1117" alt="stars"/>
-        <img src="https://img.shields.io/github/last-commit/codesbygom/adamantium?style=flat&color=238636&labelColor=0d1117" alt="last commit"/>
+        <img src="https://img.shields.io/badge/repo-private-8b949e?style=flat&labelColor=0d1117" alt="private repo"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center"><a href="https://github.com/GOMWorks/NeoDS4">NeoDS4</a></h4>
+      <p align="center">
+        <!-- Record a ~5s clip, save it as assets/neods4.gif, then uncomment:
+        <a href="https://github.com/GOMWorks/NeoDS4">
+          <img src="assets/neods4.gif" alt="NeoDS4 mapping a controller" width="100%"/>
+        </a>
+        -->
+      </p>
+      <p align="center">
+        Modern gamepad input mapper &amp; virtual controller emulator for Windows — DualShock, DualSense, Switch Pro &amp; more.<br/>
+        <sub><b>C# · Avalonia</b></sub><br/>
+        <img src="https://img.shields.io/badge/repo-private-8b949e?style=flat&labelColor=0d1117" alt="private repo"/>
       </p>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/codesbygom/neods4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codesbygom&repo=neods4&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="NeoDS4"/>
-  </a>
-</p>
 
 ---
 
@@ -134,25 +143,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codesbygom/codesbygom/output/github-snake.svg"/>
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/codesbygom/codesbygom/output/github-snake.svg"/>
 </picture>
-
----
-
-### 🖥️ Uses
-
-<!-- Fix anything here that isn't actually what you run. -->
-
-| | |
-| --- | --- |
-| **Machine** | Windows 11 · desktop workstation |
-| **Editors** | Visual Studio · VS Code · Rider |
-| **Terminal** | Windows Terminal + PowerShell |
-| **Font** | JetBrains Mono |
-| **Theme** | GitHub Dark |
-| **Desktop UI** | Avalonia over WPF — cross-platform, and the styling system is closer to CSS |
-| **APIs** | ASP.NET Core for typed, long-lived services · FastAPI when it needs to exist by tomorrow |
-| **Web** | Next.js · TypeScript · Tailwind |
-| **Games** | Unity 3D |
-| **CI** | GitHub Actions |
 
 ---
 
