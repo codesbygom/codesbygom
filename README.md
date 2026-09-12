@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/codesbygom">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Arash+%F0%9F%91%8B;Backend+%C2%B7+Game+Developer;C%23+%C2%B7+Python+%C2%B7+TypeScript;Building+Rewind+and+Adamantium" alt="Backend · Game Developer"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Arash+%F0%9F%91%8B;Backend+%C2%B7+Game+Developer;C%23+%C2%B7+Python+%C2%B7+TypeScript;Building+Open+Source+apps+" alt="Backend · Game Developer"/>
   </a>
 </p>
 
