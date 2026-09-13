@@ -1,19 +1,18 @@
 <p align="center">
   <a href="https://github.com/codesbygom">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Arash+%F0%9F%91%8B;Backend+%C2%B7+Game+Developer;C%23+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+C%2B%2B;Building+Rewind+and+Adamantium" alt="Backend · Game Developer"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Arash+%F0%9F%91%8B;Backend+%C2%B7+Game+Developer;C%23+%C2%B7+Python+%C2%B7+TypeScript;Building+Rewind+and+Adamantium" alt="Backend · Game Developer"/>
   </a>
 </p>
 
 <p align="center">
   Backend developer — APIs, data modelling, and the systems behind them.<br/>
-  Also a game developer: gameplay mechanics in Unity, plus open-source desktop apps in C# and C++.
+  Also a game developer: gameplay mechanics in Unity.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arash1997"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:arash.m.gholinejad@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://codesbygom.github.io"><img src="https://img.shields.io/badge/Blog-0d1117?style=flat&logo=jekyll&logoColor=white" alt="Blog"/></a>
-  <img src="https://komarev.com/ghpvc/?username=codesbygom&color=58a6ff&style=flat&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
@@ -22,17 +21,16 @@
 
 <!-- Keep this to three lines. Update it when it stops being true. -->
 
-- Rewriting **DS4Windows**'s WPF interface in Avalonia, shipping it as **NeoDS4**
-- Shipping the first tagged release of **Adamantium**
-- Learning design systems, and applying them to both desktop apps
+- Building **web apps** — web services and websites
+- Prototyping **gameplay mechanics** and game dev work in Unity
+- Working on **open-source** apps
 
 ---
 
 ### 🚧 What I'm building
 
-<!-- Org migration done: all three now live under GOMWorks, currently private.
-     Star/last-commit badges are omitted because shields.io can't read private repos.
-     Once a repo goes public, add its badges back and drop the "Private" label. -->
+<!-- Org migration done: all three now live under GOMWorks. Going public in the next
+     few days — add star/last-commit badges once they are, shields.io can't read private repos. -->
 
 <table>
   <tr>
@@ -47,8 +45,7 @@
       </p>
       <p align="center">
         All-in-one cross-platform retro game emulator, built on the libretro API.<br/>
-        <sub><b>C++ · lrcpp · Avalonia</b></sub><br/>
-        <img src="https://img.shields.io/badge/repo-private-8b949e?style=flat&labelColor=0d1117" alt="private repo"/>
+        <sub><b>C# · lrcpp · Avalonia</b></sub>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -62,8 +59,7 @@
       </p>
       <p align="center">
         Local-first, end-to-end encrypted vault — synced through your own cloud storage, no servers of its own.<br/>
-        <sub><b>C# · Avalonia</b></sub><br/>
-        <img src="https://img.shields.io/badge/repo-private-8b949e?style=flat&labelColor=0d1117" alt="private repo"/>
+        <sub><b>C# · Avalonia</b></sub>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -90,7 +86,6 @@
 **Languages**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
