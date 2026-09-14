@@ -45,7 +45,7 @@
       </p>
       <p align="center">
         All-in-one cross-platform retro game emulator, built on the libretro API.<br/>
-        <sub><b>C# · lrcpp · MAUI</b></sub>
+        <sub><b>C# · lrcpp · MAUI (+ Avalonia on Linux)</b></sub>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -59,7 +59,7 @@
       </p>
       <p align="center">
         Local-first, end-to-end encrypted vault — synced through your own cloud storage, no servers of its own.<br/>
-        <sub><b>C# · MAUI</b></sub>
+        <sub><b>C# · MAUI (+ Avalonia on Linux)</b></sub>
       </p>
     </td>
     <td width="33%" valign="top">
