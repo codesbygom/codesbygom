@@ -29,26 +29,11 @@
 
 ### 🚧 What I'm building
 
-<!-- Org migration done: all three now live under GOMWorks. Going public in the next
-     few days — add star/last-commit badges once they are, shields.io can't read private repos. -->
+<!-- Going public soon — add star/last-commit badges once it is, shields.io can't read private repos. -->
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4 align="center"><a href="https://github.com/GOMWorks/Rewind">Rewind</a></h4>
-      <p align="center">
-        <!-- Record a ~5s clip, save it as assets/rewind.gif, then uncomment:
-        <a href="https://github.com/GOMWorks/Rewind">
-          <img src="assets/rewind.gif" alt="Rewind running a game" width="100%"/>
-        </a>
-        -->
-      </p>
-      <p align="center">
-        All-in-one cross-platform retro game emulator, built on the libretro API.<br/>
-        <sub><b>C# · lrcpp · MAUI (+ Avalonia on Linux)</b></sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h4 align="center"><a href="https://github.com/GOMWorks/NeoDS4">NeoDS4</a></h4>
       <p align="center">
         <!-- Record a ~5s clip, save it as assets/neods4.gif, then uncomment:
