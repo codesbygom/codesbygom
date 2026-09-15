@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h4 align="center"><a href="https://github.com/GOMWorks/Rewind">Rewind</a></h4>
       <p align="center">
         <!-- Record a ~5s clip, save it as assets/rewind.gif, then uncomment:
@@ -48,21 +48,7 @@
         <sub><b>C# · lrcpp · MAUI (+ Avalonia on Linux)</b></sub>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h4 align="center"><a href="https://github.com/GOMWorks/Adamantium">Adamantium</a></h4>
-      <p align="center">
-        <!-- Record a ~5s clip, save it as assets/adamantium.gif, then uncomment:
-        <a href="https://github.com/GOMWorks/Adamantium">
-          <img src="assets/adamantium.gif" alt="Adamantium encrypting a folder" width="100%"/>
-        </a>
-        -->
-      </p>
-      <p align="center">
-        Local-first, end-to-end encrypted vault — synced through your own cloud storage, no servers of its own.<br/>
-        <sub><b>C# · MAUI (+ Avalonia on Linux)</b></sub>
-      </p>
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h4 align="center"><a href="https://github.com/GOMWorks/NeoDS4">NeoDS4</a></h4>
       <p align="center">
         <!-- Record a ~5s clip, save it as assets/neods4.gif, then uncomment:
