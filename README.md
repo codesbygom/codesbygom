@@ -27,31 +27,6 @@
 
 ---
 
-### 🚧 What I'm building
-
-<!-- Going public soon — add star/last-commit badges once it is, shields.io can't read private repos. -->
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h4 align="center"><a href="https://github.com/GOMSoftworks/NeoDS4">NeoDS4</a></h4>
-      <p align="center">
-        <!-- Record a ~5s clip, save it as assets/neods4.gif, then uncomment:
-        <a href="https://github.com/GOMSoftworks/NeoDS4">
-          <img src="assets/neods4.gif" alt="NeoDS4 mapping a controller" width="100%"/>
-        </a>
-        -->
-      </p>
-      <p align="center">
-        Modern gamepad input mapper &amp; virtual controller emulator for Windows — DualShock, DualSense, Switch Pro &amp; more.<br/>
-        <sub><b>C# · MAUI</b></sub>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🧰 Tech Stack
 
 **Languages**
