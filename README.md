@@ -19,11 +19,9 @@
 
 ### 📌 Now
 
-<!-- Keep this to three lines. Update it when it stops being true. -->
 
 - Building **web apps** — web services and websites
 - Prototyping **gameplay mechanics** and game dev work in Unity
-- Working on **open-source** apps
 
 ---
 
@@ -55,18 +53,6 @@
 
 ### 📊 GitHub Stats
 
-<!-- Metrics: commit calendar, active hours, languages (org repos included) and top repos in
-     one SVG. Add the METRICS_TOKEN secret, run the Metrics workflow once, then uncomment:
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub metrics"/>
-</p>
--->
-
-<!-- github-readme-stats (stats card), github-readme-activity-graph, and github-profile-trophy
-     are pulled temporarily: their free hosted instances are returning 503/402 (rate limit /
-     quota, not something wrong here). Re-add them once those services recover, or self-host:
-     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codesbygom&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Commit streak" height="170"/>
 </p>
@@ -78,12 +64,3 @@
 </picture>
 
 ---
-
-### ✍️ Latest from my blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="right"><a href="https://codesbygom.github.io">→ more posts</a></p>
-
-
