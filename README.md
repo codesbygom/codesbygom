@@ -56,10 +56,6 @@
   <img src="https://streak-stats.demolab.com?user=codesbygom&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Commit streak" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codesbygom/codesbygom/main/github-metrics.svg" alt="Metrics"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codesbygom/codesbygom/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codesbygom/codesbygom/output/github-snake.svg"/>
