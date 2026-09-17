@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/arash1997"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:arash.m.gholinejad@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://codesbygom.github.io"><img src="https://img.shields.io/badge/Blog-0d1117?style=flat&logo=jekyll&logoColor=white" alt="Blog"/></a>
 </p>
 
 ---
