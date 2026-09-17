@@ -28,11 +28,9 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          # Disabled: crashes with "Cannot destructure property 'author'" on this
+          # account's event history, even on stable releases (upstream data bug)
+          plugin_habits: no
 
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
